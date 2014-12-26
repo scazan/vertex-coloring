@@ -1,4 +1,4 @@
-Vertex-Coloring
+Vertex Coloring
 ======================
 
 A simple tool for coloring a graph of connected vertices.
