@@ -1,0 +1,25 @@
+{
+  "name": "Vertex-Coloring",
+  "version": "1.0.0",
+  "description": "A simple tool for coloring a graph of vertices given an adjacency matrix.",
+  "main": "vertex_coloring.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scazan/vertex-coloring"
+  },
+  "keywords": [
+    "graph",
+    "theory",
+    "graph",
+    "coloring",
+    "math"
+  ],
+  "author": "Scott Cazan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/scazan/vertex-coloring/issues"
+  }
+}
