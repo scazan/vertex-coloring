@@ -1,8 +1,8 @@
 {
-  "name": "Vertex-Coloring",
+  "name": "vertex-coloring",
   "version": "1.0.0",
   "description": "A simple tool for coloring a graph of vertices given an adjacency matrix.",
-  "main": "vertex_coloring.js",
+  "main": "vertex-coloring.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
